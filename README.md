@@ -18,9 +18,9 @@ The Wildfire Smoke Dataset is a collection of images that can be used to train c
 
 To learn more about this dataset and its possible applications in fighting wildfires, see this [case study of Abhishek Ghosh's wildfire detection model](https://blog.roboflow.com/fighting-wildfires).
 
-Link:
+<b>Link</b>:
 AI for Mankind and HPWREN. (2023). Wildfire Smoke Object Detection Dataset. 
-Retrieved from https://public.roboflow.com/object-detection/wildfire-smoke
+<br>Retrieved from https://public.roboflow.com/object-detection/wildfire-smoke
 
 # Requirements
 Ensure you have the following dependencies installed:
@@ -35,5 +35,5 @@ This project is licensed under the [Apache License 2.0](https://www.apache.org/l
 # Acknowledgements
 Many thanks to the OpenCV, TensorFlow, Keras and Torch groups and contributors. This project would not have been possible without the existence of high quality, open source machine learning libraries.
 I would also like to thank the greater open source community, in which the assortment of concrete examples and code were of great help.
-*This list is not final, as the project is far from done. Any future acknowledgements will be promptly added.*
+<br>*This list is not final, as the project is far from done. Any future acknowledgements will be promptly added.*
 
