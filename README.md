@@ -20,7 +20,7 @@ To learn more about this dataset and its possible applications in fighting wildf
 
 <b>Link</b>:
 AI for Mankind and HPWREN. (2023). Wildfire Smoke Object Detection Dataset. 
-<br>Retrieved from https://public.roboflow.com/object-detection/wildfire-smoke
+<br><br>Retrieved from https://public.roboflow.com/object-detection/wildfire-smoke
 
 # Requirements
 Ensure you have the following dependencies installed:
