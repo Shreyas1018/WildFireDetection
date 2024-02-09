@@ -1,5 +1,5 @@
 # WildFireDetection
-Training a computer vision model to detect and monitor the presence of wildfire smoke in real-time,  ultimately aimingto mitigate the impact of wildfires on both the environment and human health.
+Training a computer vision model to detect and monitor the presence of wildfire smoke in real-time,  ultimately aiming to mitigate the impact of wildfires on both the environment and human health.
 
 # Overview
 This project aims to develop a Convolutional Neural Network (CNN) model for detecting wildfires in images. The model utilizes deep learning techniques to analyze visual data and identify patterns associated with wildfire occurrences. The goal is to provide an effective tool for early detection and monitoring of wildfires, aiding in prompt response and mitigation efforts.
