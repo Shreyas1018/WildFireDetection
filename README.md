@@ -4,7 +4,7 @@ Training a computer vision model to detect and monitor the presence of wildfire 
 # Overview
 This project aims to develop a Convolutional Neural Network (CNN) model for detecting wildfires in images. The model utilizes deep learning techniques to analyze visual data and identify patterns associated with wildfire occurrences. The goal is to provide an effective tool for early detection and monitoring of wildfires, aiding in prompt response and mitigation efforts.
 
-# Extension to Other Industries: Smoke Detection
+# Extension to Other Industries: Smoke Detection 
 While the primary focus of this project is on wildfire detection, the developed CNN model can be extended and applied to various industries where smoke detection is a critical concern. Smoke detection plays a crucial role in ensuring safety and preventing potential hazards. Some use cases include:
 1. Early detection of vehicle-related incidents, such as car fires or accidents leading to smoke generation.
 2. Monitoring air quality by detecting smoke or pollutants in urban and industrial areas.
